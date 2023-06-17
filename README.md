@@ -1,1 +1,1 @@
-# Logarithm_C
+# College_Logarithm_C
